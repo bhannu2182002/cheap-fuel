@@ -1,0 +1,2 @@
+# cheap-fuel
+The current price of petrol is X rupees, and the current price of diesel is Y rupees. At the start of each month, the price of petrol increases by A rupees and the price of diesel increases by B rupees.  Chef is curious to know which fuel costs less at the end of the Kth month. If petrol is cheaper than diesel at the end of Kth month, then print PETROL. If diesel is cheaper than petrol at the end of the Kth month, then print DIESEL. If both the fuels have the same price at the end of the Kth month, then print SAME PRICE.
